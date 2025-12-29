@@ -1,0 +1,93 @@
+baseURL: "https://yourusername.github.io/arenlightingwebsite/"
+title: Aren Lighting
+pagination.pagerSize: 12
+theme: PaperMod
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Aren Lighting
+  description: "Lighting design for DIY venues, basement shows, etc. in Madison WI."
+  keywords: [Lighting, DIY Venues, Stage Lighting, Event Production, Concert Lighting]
+  author: Aren
+  images: ["/images/social-preview.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark theme fits lighting aesthetic
+  disableThemeToggle: false
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  
+  assets:
+    favicon: "/favicon-32x32.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    
+  label:
+    text: "Aren Lighting"
+    iconHeight: 35
+    
+  # home-info mode
+  homeInfoParams:
+    Title: "Lighting for DIY Venues & Independent Shows"
+    Content: >
+      I'm a programmer by profession, but a lighting designer as a hobbyist. 
+      Contact me for DIY venue lighting, basement show lighting, anything else you want me to design. 
+      
+  socialIcons:
+    - name: email
+      url: "mailto:arenslighting@gmail.com  "
+    - name: instagram
+      url: "https://www.instagram.com/arens.lighting?igsh=MWM2bDc2NnZvZm4xZg=="
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    responsiveImages: true
+    
+menu:
+  main:
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 10
+    - identifier: equipment
+      name: Equipment
+      url: /equipment/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true # Allows HTML in markdown for image galleries

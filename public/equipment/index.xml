@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Equipment on Aren Lighting</title>
+    <link>http://localhost:1313/arenlightingwebsite/equipment/</link>
+    <description>Recent content in Equipment on Aren Lighting</description>
+    <image>
+      <title>Aren Lighting</title>
+      <url>http://localhost:1313/images/social-preview.jpg</url>
+      <link>http://localhost:1313/images/social-preview.jpg</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/arenlightingwebsite/equipment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chauvet Swarm 5 FX</title>
+      <link>http://localhost:1313/arenlightingwebsite/equipment/swarm5fx/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arenlightingwebsite/equipment/swarm5fx/</guid>
+      <description>&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Model:&lt;/strong&gt; Chauvet Swarm 5 FX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantity:&lt;/strong&gt; 1 unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Point lasers (red and green), white fill strobes and color strobes (red, green, blue, amber, white)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Chauvet Swarm 5 FX&#34; loading=&#34;lazy&#34; src=&#34;../chauvet_swarm5fx.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DMX Controller</title>
+      <link>http://localhost:1313/arenlightingwebsite/equipment/controllers/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arenlightingwebsite/equipment/controllers/</guid>
+      <description>&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Primary Controller:&lt;/strong&gt; ASUS TUF A16&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software:&lt;/strong&gt; QLC+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the laptop I typically use as a DMX controller with a USB-to-DMX adapter. I have a few backups as well.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Controller in use&#34; loading=&#34;lazy&#34; src=&#34;../laptop_dmx_controller.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fog Machine</title>
+      <link>http://localhost:1313/arenlightingwebsite/equipment/fogmachine/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arenlightingwebsite/equipment/fogmachine/</guid>
+      <description>&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;LED Light&lt;/strong&gt;: Static or flashing, RGB and variants. Non-programmable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantity&lt;/strong&gt;: 1 unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The water-based fog might be difficult for people with asthma or extreme sensitivity to the odor, but it allows DMX lasers to show through the fog (rather than just on the surface they&amp;rsquo;re hitting).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Controller in use&#34; loading=&#34;lazy&#34; src=&#34;../fogmachine.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LED Light Strip</title>
+      <link>http://localhost:1313/arenlightingwebsite/equipment/ledstrip/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arenlightingwebsite/equipment/ledstrip/</guid>
+      <description>&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Colors&lt;/strong&gt;: Anything between rgb (0,0,0) and (255,255,100-255) (near the end the blue light is limited to around 100)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Functions&lt;/strong&gt;: Currently flashing, running blobs of light, multi-colors, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantity&lt;/strong&gt;: 300 LEDs, 1 strip&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;300 LEDs in the light strip, controlled by an ESP32. I can program most of anything into the LED strip, but the programming takes time and effort, as does setting up the strip with tape or adhesive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Venue Mothership VP</title>
+      <link>http://localhost:1313/arenlightingwebsite/equipment/mothershipvp/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arenlightingwebsite/equipment/mothershipvp/</guid>
+      <description>&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Model:&lt;/strong&gt; Venue Mothership VP&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quantity:&lt;/strong&gt; 1 unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Spinning head with 8 bright LED lights, 6 point LED lights and a green laser on top.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Venue Mothership VP&#34; loading=&#34;lazy&#34; src=&#34;../venue_mothershipvp.jpg&#34;&gt;
+&lt;em&gt;Replace this with your actual equipment photo&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Punk on Aren Lighting</title>
+    <link>http://localhost:1313/arenlightingwebsite/tags/punk/</link>
+    <description>Recent content in Punk on Aren Lighting</description>
+    <image>
+      <title>Aren Lighting</title>
+      <url>http://localhost:1313/images/social-preview.jpg</url>
+      <link>http://localhost:1313/images/social-preview.jpg</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/arenlightingwebsite/tags/punk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basement Show - Punk Night</title>
+      <link>http://localhost:1313/arenlightingwebsite/portfolio/basement-show-2024/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arenlightingwebsite/portfolio/basement-show-2024/</guid>
+      <description>&lt;h2 id=&#34;venue-details&#34;&gt;Venue Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Residential basement&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacity:&lt;/strong&gt; ~40 people&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenges:&lt;/strong&gt; Low ceilings (7ft), limited power outlets, noise restrictions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;For this intimate punk show, I kept the setup minimal but effective:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2x moving heads on floor stands (stage left/right)&lt;/li&gt;
+&lt;li&gt;4x LED pars for stage wash&lt;/li&gt;
+&lt;li&gt;Simple controller with 8 pre-programmed scenes&lt;/li&gt;
+&lt;li&gt;Positioned fixtures to avoid audience sight lines&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;The low ceilings actually worked in our favor, creating intense, focused beams during faster songs. Used deep reds and blues to match the punk aesthetic, with occasional strobing during breakdowns.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
